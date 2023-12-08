@@ -1,6 +1,6 @@
 # ci-app (In Progress)
 
-Learn Code Igniter 3 with Bootstrap 4 framework, you can watch this tutorial below (Only available for Indonesian language):\
+## Learn Code Igniter 3 with Bootstrap 4 framework, you can watch this tutorial below (Only available for Indonesian language):
 
 [Part 1](https://www.youtube.com/watch?v=dMRCZGGAx74)\
 [Part 2](https://www.youtube.com/watch?v=g5JT3EW38KM)\
