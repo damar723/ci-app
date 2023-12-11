@@ -1,4 +1,4 @@
-# ci-app (In Progress (3 to 3))
+# ci-app
 
 Learn CodeIgniter 3 with Bootstrap 4 framework, you can watch this tutorial below (Only available for Indonesian language):
 
