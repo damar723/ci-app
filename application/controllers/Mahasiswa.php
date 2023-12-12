@@ -10,7 +10,7 @@ class Mahasiswa extends CI_Controller {
 
 
     public function index()
-    {   
+    {
         $data['judul'] = 'Daftar Mahasiswa';
         $data['mahasiswa'] = $this->Mahasiswa_model->getAllMahasiswa();
         if( $this->input->post('keyword') ) {
